@@ -9,7 +9,7 @@
 ### Spotify Playing 🎧
 
 
-[<img src="https://now-playing-betto2015.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/betto2015?si=fVM_SW2cQrOfLEAMrPqTcQ)
+[<img src="https://now-playing-novatorem.betto20.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/betto2015?si=fVM_SW2cQrOfLEAMrPqTcQ)
 
 ### Some social media to keep contact with me:
 
