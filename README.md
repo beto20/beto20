@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I like to play fronton, videogames, programming, and listen to music. 
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.beto20.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/c1c9e9ac8f6a41508d3f15a1e88c7128)
+[<img src="https://novatorem.beto20.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/betto2015)
 
 
 ### Some social media to keep contact with me:
