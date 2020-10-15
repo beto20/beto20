@@ -1,4 +1,3 @@
-### Hello I am Alberto or can call me Beto
 
 ## I am Alberto Velasquez, From Peru and a system engineer student
 
