@@ -4,7 +4,7 @@
 
 - 🌱 I enjoy learning about tech and new ways to solve problems by programming
 - 🥅 2020 Goals: Improve my skills in programming and learn more about software development.
-- ⚡ Fun fact: I like to play fronton, videogames, programming, and listen to music. 
+- ⚡ Fun fact: I like to listen to music, play fronton & videogames and programming. 
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.beto20.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/betto2015)
