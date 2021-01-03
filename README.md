@@ -1,8 +1,8 @@
 
-## I am Alberto Velasquez, From Peru and a system engineer student
+## I am Alberto Velasquez, from Peru and a system engineer student
 
 - 🌱 I enjoy learning about tech and new ways to solve problems by programming
-- 🥅 2020 Goals: Improve my skills in programming and learn more about software development.
+- 🥅 2021 Goals: Improve my skills in programming and learn more about software development.
 - ⚡ Fun fact: I like to listen to music, play fronton & videogames and programming. 
 
 ### Spotify Playing 🎧
