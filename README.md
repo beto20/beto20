@@ -2,7 +2,7 @@
 ## I am Alberto Velasquez, from Peru and a system engineer
 
 - 🌱 I enjoy learning about tech and new ways to solve problems by programming
-- 🥅 2022 Goals: Improve my skills in programming and learn more about software development.
+- 🥅 2023 Goals: Improve my skills in programming and learn more about software development.
 - ⚡ Fun fact: I like to listen to music, play fronton & videogames and programming. 
 
 ### Spotify Playing 🎧
