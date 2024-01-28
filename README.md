@@ -2,7 +2,7 @@
 ## :wave: &nbsp;Hi, I'm Alberto Velasquez
 
 - 🌱 I enjoy learning about tech and new ways to solve problems by programming
-- 🥅 2023 Goals: Improve my skills in programming and learn more about software development.
+- 🥅 2024 Goals: Improve my skills in programming and learn more about software development.
 - ⚡ Fun fact: I like to listen to music and research about new technologies related to back-end, Android, and Cloud computing.
 
 ### 🎧 &nbsp;Spotify Playing
@@ -44,5 +44,5 @@
 
 [linkedin]: https://www.linkedin.com/in/alberto-velasquez
 [medium]: https://medium.com/@alvelasquez
-[web]: https://medium.com/@alvelasquez
+[web]: https://alvelasquezdev.com/
 
